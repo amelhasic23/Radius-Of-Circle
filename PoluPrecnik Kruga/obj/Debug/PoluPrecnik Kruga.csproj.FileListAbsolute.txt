@@ -1,0 +1,7 @@
+F:\PoluPrecnik Kruga\PoluPrecnik Kruga\bin\Debug\PoluPrecnik Kruga.exe.config
+F:\PoluPrecnik Kruga\PoluPrecnik Kruga\bin\Debug\PoluPrecnik Kruga.exe
+F:\PoluPrecnik Kruga\PoluPrecnik Kruga\bin\Debug\PoluPrecnik Kruga.pdb
+F:\PoluPrecnik Kruga\PoluPrecnik Kruga\obj\Debug\PoluPrecnik Kruga.csproj.AssemblyReference.cache
+F:\PoluPrecnik Kruga\PoluPrecnik Kruga\obj\Debug\PoluPrecnik Kruga.csproj.CoreCompileInputs.cache
+F:\PoluPrecnik Kruga\PoluPrecnik Kruga\obj\Debug\PoluPrecnik Kruga.exe
+F:\PoluPrecnik Kruga\PoluPrecnik Kruga\obj\Debug\PoluPrecnik Kruga.pdb
